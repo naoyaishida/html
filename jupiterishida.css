@@ -1,0 +1,119 @@
+
+
+main{
+    background-image: url(https://scontent.fblr1-4.fna.fbcdn.net/v/t1.0-9/15241343_1269081749831001_5422253553489376044_n.jpg?_nc_cat=105&_nc_ht=scontent.fblr1-4.fna&oh=bcc6793682303ab0838a00e073a388ba&oe=5D41FD35);
+    width:100%;
+    height: 800px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    position: relative;
+}
+
+main h1{
+    font-size: 150px;
+    color:white;
+    position: absolute;
+    width: 100%;
+    left: 0; 
+    top: calc(50% - 150px); 
+    text-align: center; 
+    color: white; 
+    font-weight: bold; 
+}
+
+main h2{
+    font-size: 75px;
+    color:white;
+    position: absolute;
+    width: 100%;
+    left: 0; 
+    top: calc(50% - 0px); 
+    text-align: center; 
+    color: white; 
+    font-weight: bold; 
+}
+
+.Youtube{
+    height: 800px;
+    width: 100%;
+    background-color: white;
+    margin: 0 auto;
+}
+
+.Youtube-header{
+    height: 80px;
+    width: 100%;
+    background-color: orange;  
+    text-align: center;
+
+}
+
+.Youtube h1{
+    size:30px;
+    color: white;
+    display: block;
+}
+
+.form{
+    height: 200px;
+    width; 100%;
+}
+
+.form-header{
+    height: 80px;
+    width: 100%;
+    background-color: orange;  
+    text-align: center;
+}
+
+.form-header h1{
+    size:30px;
+    color: white;
+    display: block;
+
+}
+
+.form{
+    height: 350px;
+}
+
+
+.contact-form{
+    height: 200px;;
+    text-align: center;
+    justify-content: center;
+    display: block;
+    padding: 10px 0;
+    border: 1px solid block;
+    
+
+}
+.contact-form input{
+ height: 40px;
+ width:300px;
+ flex-direction: column;
+ display: block;
+ text-align: center;
+ margin: 0 auto;
+ 
+
+}
+.btn{
+    width: 100%;
+    
+}
+.btn input{
+    background-color: orange;
+    width: 80px;
+    border: 1px solid black;
+}
+
+footer{
+    height: 40px;
+    background-color: orange;
+    color: white;
+    text-align: center;
+
+}
+
+
